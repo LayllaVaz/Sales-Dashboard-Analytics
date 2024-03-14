@@ -1,4 +1,6 @@
 # Sales-Dashboard-Analytics
+Link do Dashboard disponível para interação: https://app.powerbi.com/view?r=eyJrIjoiMTc3ZGE4ZWMtMjRlNC00ZDQyLWFiMmMtYjhjNzcyNzk4YjU3IiwidCI6ImI5NDdhYmY1LTE2NWUtNDFiZS1hZWNjLWFkOWE5ODliNzk4MSJ9
+
 Este repositório contém o arquivo Power BI Template (.pbit) para um dashboard interativo de análise de vendas.
 Com ele, você pode:
 
