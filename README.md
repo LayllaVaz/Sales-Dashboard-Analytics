@@ -11,4 +11,5 @@ Com ele, você pode:
 - Aproveitar as visualizações customizáveis para insights rápidos e ações imediatas.
 
 - Fiz ele na Aula de Power Bi, com o professor Ítalo Teotônio, da Simplifica Treinamentos.
+- ![image](https://github.com/LayllaVaz/Sales-Dashboard-Analytics/assets/161758329/823f3b43-a2f5-4d74-aa7b-252863f066cc)
 - ![Análise de vendas](https://github.com/LayllaVaz/Sales-Dashboard-Analytics/assets/161758329/cb5563ff-0730-4850-98bf-17e7f527d702)
